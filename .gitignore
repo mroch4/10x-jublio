@@ -24,5 +24,6 @@ dist-ssr
 *.sw?
 
 # 10xDevs course
-.vs
 .claude
+.static
+.vs
