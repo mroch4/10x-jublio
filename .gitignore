@@ -24,10 +24,9 @@ dist-ssr
 *.sw?
 
 # 10xDevs course
-#10xdevs3-artifacts-m1
-#context
-
 .claude
+.generic
 .static
 .vs
+
 firebaseConfig.json
